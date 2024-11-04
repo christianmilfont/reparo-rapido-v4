@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "modelo": "Volkswagen Golf",
+        "ano": 2021,
+        "usuario": {
+            "nome": "Carlos Silva",
+            "email": "carlos.silva@example.com",
+            "telefone": "1234567890"
+        }
+    },
+    {
+        "id": 2,
+        "modelo": "Porsche 911",
+        "ano": 2022,
+        "usuario": {
+            "nome": "Ana Oliveira",
+            "email": "ana.oliveira@example.com",
+            "telefone": "0987654321"
+        }
+    },
+    {
+        "id": 3,
+        "modelo": "Honda Civic",
+        "ano": 2020,
+        "usuario": {
+            "nome": "Marcos Pereira",
+            "email": "marcos.pereira@example.com",
+            "telefone": "5551234567"
+        }
+    },
+    {
+        "id": 4,
+        "modelo": "Fiat Uno",
+        "ano": 2019,
+        "usuario": {
+            "nome": "Julia Santos",
+            "email": "julia.santos@example.com",
+            "telefone": "5559876543"
+        }
+    }
+]
